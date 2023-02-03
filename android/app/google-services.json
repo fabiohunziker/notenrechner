@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74965085957",
+    "project_id": "notenrechner-7e934",
+    "storage_bucket": "notenrechner-7e934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74965085957:android:91be305eb5e2461913516c",
+        "android_client_info": {
+          "package_name": "ch.bbbaden.program"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74965085957-q7qf0sqseds46d0c0jev754sbfhirl1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBq-5drBS7a1qjjUhasO3D19Epk4E4zLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74965085957-q7qf0sqseds46d0c0jev754sbfhirl1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
